@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yishai
 
-<!--
-**YishaiGlasner/YishaiGlasner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer interested in representing complex knowledge systems through software.
 
-Here are some ideas to get you started:
+I currently work at Sefaria, building and maintaining software across backend services, APIs, web applications, and mobile applications for a for a digital corpus containing 5M+ text segments and 11,000+ text versions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+- API design and developer infrastructure
+- Data modeling and information architecture
+- Text processing and knowledge representation
+- Building systems for complex, structured information
+
+## Background
+
+Before becoming a software engineer, I spent years studying, editing, and working with Jewish texts. I hold a PhD in Political Science from the Hebrew University of Jerusalem, focusing on medieval Jewish political thought.
+
+This background shapes how I approach engineering: I enjoy understanding complex domains, finding the right abstractions, and building systems that represent them clearly.
+
+## Selected work
+
+- **Ref API** — designed and implemented an API for navigating Sefaria's interconnected textual corpus.
+- **Text APIs** — worked on APIs supporting multilingual text experiences and structured access to textual data.
+- **Text processing** — built parsers and data transformations for complex textual editions.
