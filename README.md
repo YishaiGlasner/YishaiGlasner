@@ -18,6 +18,7 @@ This background shapes how I approach engineering: I enjoy understanding complex
 
 ## Selected work
 
-- **Ref API** — designed and implemented an API for navigating Sefaria's interconnected textual corpus.
-- **Text APIs** — worked on APIs supporting multilingual text experiences and structured access to textual data.
-- **Text processing** — built parsers and data transformations for complex textual editions.
+- **[Ref API](https://github.com/Sefaria/Sefaria-Project/pull/3191)** — designed and implemented an API for navigating Sefaria's interconnected textual corpus.
+- **[Text APIs](https://github.com/Sefaria/Sefaria-Project/pull/1543)** — worked on APIs supporting multilingual text experiences and structured access to textual data.
+- **[Text processing](https://github.com/Sefaria/Sefaria-Data/tree/master/sources/newRif)** — built parsers and data transformations for complex textual editions (e.g. Rif with commentary linking).
+- **[BDB lexicon](https://github.com/Sefaria/Sefaria-Data/tree/master/sources/bdb)** — reconciled multiple heterogeneous digitized sources into a unified lexicon import pipeline.
